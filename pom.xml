@@ -61,7 +61,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>employee-sp</finalName>
+		<finalName>employee_sp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
