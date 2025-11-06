@@ -17,4 +17,4 @@ RUN ./mvnw -B clean package -DskipTests
 EXPOSE 8080
 
 # Run the jar
-CMD ["java", "-jar", "target/employee_springboot_api.jar"]
+CMD ["java", "-jar", "target/employee_sp.jar"]
